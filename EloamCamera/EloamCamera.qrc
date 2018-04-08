@@ -1,0 +1,22 @@
+<RCC>
+  <qresource prefix="EloamCamera">
+    <file>Resources/image/assi.png</file>
+    <file alias="selectRect">Resources/image/selectRect.png</file>
+    <file alias="autoScan">Resources/image/autoScan.png</file>
+    <file alias="barcoder">Resources/image/barcoder.png</file>
+    <file alias="exportPdf">Resources/image/exportPdf.png</file>
+    <file alias="folder">Resources/image/folder.png</file>
+    <file alias="fullScreen">Resources/image/fullScreen.png</file>
+    <file alias="idCard">Resources/image/idCard.png</file>
+    <file alias="imageCombine">Resources/image/imageCombine.png</file>
+    <file alias="mirror">Resources/image/mirror.png</file>
+    <file alias="ocr">Resources/image/ocr.png</file>
+    <file alias="printPreview">Resources/image/printPreview.png</file>
+    <file alias="rotateLeft">Resources/image/rotateLeft.png</file>
+    <file alias="rotateRight">Resources/image/rotateRight.png</file>
+    <file alias="scan">Resources/image/scan.png</file>
+    <file alias="video">Resources/image/video.png</file>
+    <file alias="zoomin">Resources/image/zoomin.png</file>
+    <file alias="zoomout">Resources/image/zoomout.png</file>
+  </qresource>
+</RCC>
